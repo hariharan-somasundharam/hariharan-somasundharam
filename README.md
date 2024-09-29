@@ -20,7 +20,7 @@ Student @ Government College of Engineering - Thanjavur
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Asus-A15-ED1C24?style=for-the-badge&logo=asus&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_7435H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+<img height="30" src="https://img.shields.io/badge/Tuf Gaming-A15-ED1C24?style=for-the-badge&logo=asus&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_7435H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hariharan-somasundharam&theme=dark&show_icons=true&&hide=issues,contribs)
 
