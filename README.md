@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me HariHaran
 
 Student @ Government College of Engineering - Thanjavur
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
+<img align="right" width="370" height="290" src="https://cdn.dribbble.com/userupload/16418336/file/original-4c3fd5c6563b9572a50a8a7936b203ce.png?resize=1504x1128">                                               
 - 👀 I’m interested in developing web application
 - 🌱 I’m currently learning Fullstack Development
 - 👯 I’m looking to collaborate on ML/AI
