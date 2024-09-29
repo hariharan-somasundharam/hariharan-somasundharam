@@ -7,7 +7,8 @@ Student @ Government College of Engineering - Thanjavur
 - 👯 I’m looking to collaborate on ML/AI
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br />  [<img width="30" height="30" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/hariharan-somasundharam/)   [<img width="30" height="30" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>](harishkarnan004@gmail.com)
+<br />  [<img width="30" height="30" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/hariharan-somasundharam/)
+<br/> <img width="30" height="30" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/> : harishkarnan004@gmail.com
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Kannada, Telugu, Malayalam and Tamil.
 
