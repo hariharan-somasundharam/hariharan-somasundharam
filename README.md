@@ -21,13 +21,11 @@ Student @ Government College of Engineering - Thanjavur
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Tuf Gaming-A15-ED1C24?style=for-the-badge&logo=asus&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_7435H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-<div><img height="auto" width="40%;" align="left" src="https://github-readme-stats.vercel.app/api?username=hariharan-somasundharam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/></div>
+<div><img height="auto" width="35%;" align="left" src="https://github-readme-stats.vercel.app/api?username=hariharan-somasundharam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/></div>
 
-<div><img height="auto" width="40%;" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan-somasundharam&theme=vue-dark&hide_border=true"/></div>
+<div><img height="auto" width="35%;" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan-somasundharam&theme=vue-dark&hide_border=true"/></div>
 
-
-![hariharan-somasundharam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan-somasundharam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
+<div><img height="auto" width="30%;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan-somasundharam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/></div>
 
 [![Harish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hariharan-somasundharam&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
