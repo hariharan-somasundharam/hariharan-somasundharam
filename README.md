@@ -23,6 +23,10 @@ Student @ Government College of Engineering - Thanjavur
 
 ![hariharan-somasundharam's Stats](https://github-readme-stats.vercel.app/api?username=hariharan-somasundharam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![hariharan-somasundharam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hariharan-somasundharam&theme=vue-dark&hide_border=true)
+
+![hariharan-somasundharam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan-somasundharam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 [![Harish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hariharan-somasundharam&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
