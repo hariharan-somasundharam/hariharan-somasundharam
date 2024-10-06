@@ -23,7 +23,7 @@ Student @ Government College of Engineering - Thanjavur
 
 <div><img height="auto" width="35%;" align="left" src="https://github-readme-stats.vercel.app/api?username=hariharan-somasundharam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/></div>
 
-<div><img height="auto" width="35%;" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan-somasundharam&theme=vue-dark&hide_border=true"/></div>
+<div><img height="auto" width="35%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan-somasundharam&theme=vue-dark&hide_border=true"/></div>
 
 <div><img height="auto" width="30%;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan-somasundharam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/></div>
 
