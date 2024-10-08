@@ -3,7 +3,7 @@
 Student @ Government College of Engineering - Thanjavur
 <img height="270" width="45%" align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/d54a1057572253.59db80b99c3b5.jpg"/>                                               
 - 👀 I’m interested in developing web application
-- 🌱 I’m currently learning Fullstack Development
+- 🌱 I’m currently learning Cloud Computing
 - 👯 I’m looking to collaborate on ML/AI
 - 💬 Ask me about Tech
 - 📫 How to reach me :
