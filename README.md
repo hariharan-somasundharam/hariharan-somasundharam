@@ -1,9 +1,9 @@
-## Hi there 👋 It's me HariHaran
+## Hello All 👋 Myself HariHaran
 
-Student @ Government College of Engineering - Thanjavur
-<img height="270" width="45%" align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/d54a1057572253.59db80b99c3b5.jpg"/>                                               
-- 👀 I’m interested in developing web application
-- 🌱 I’m currently learning Cloud Computing
+AWS Cloud Engineer @ Humworld Solutions Private Limited, Chennai
+<img height="270" width="45%" align="right" src="https://humworld.com/wp-content/uploads/2024/11/Humworld-combined-image.png"/>                                               
+- 👀 I’m interested in developing automation
+- 🌱 I’m currently working on CI/CD Pipeline
 - 👯 I’m looking to collaborate on ML/AI
 - 💬 Ask me about Tech
 - 📫 How to reach me :
@@ -12,20 +12,11 @@ Student @ Government College of Engineering - Thanjavur
 - ⚡ Fun fact: I know Kannada, Telugu, Malayalam and Tamil.
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
 
 ### IDE and Tools I Use
 <img width="50" height="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
